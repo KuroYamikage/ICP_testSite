@@ -1,0 +1,48 @@
+body{
+			text-align: center;
+			font-family: sans-serif;
+			padding-top: 0px;
+			margin: 0;
+			background-color: rgb(248,241,174);
+		}
+		i,em{
+			font-family: monospace;
+			font-size: 1.25em;
+		}
+		table, td, tr,tbody, thead{
+			border-style: groove;
+		}
+		td,tr{
+			padding-left: 0px;
+		}
+		.Title{
+			font-weight: bold;
+			padding-left: 0px;
+		}
+		.school{
+			border-style: none;
+			
+		}
+		header, footer{
+			background-color: lightskyblue;
+			padding: 25px;
+			text-align: left;
+		}
+		h3{
+			border-top: 0px;
+			margin: 0;
+		}
+		
+		img{
+			padding-top: 25px;
+			padding-bottom: 15px;
+		}
+		li{
+			padding-left: 0px;
+		}
+		pre{
+			padding-botom: 0px;
+		}
+		b{
+			margin-left: 200px;
+		}
